@@ -28,7 +28,7 @@ def part1():
     print(result)
 
 def main():
-    part1()    
+    part1()
         
 if __name__ == "__main__":
     main()
